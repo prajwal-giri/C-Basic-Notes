@@ -1,4 +1,6 @@
-﻿namespace C_Sharp_Notes_101;
+﻿/*using System.Security.Cryptography.X509Certificates;
+
+namespace C_Sharp_Notes_101;
 // Jump Statements are used to transfer control from one point in a program to another.
 
 // There will be situations where you need to exit out of a loop prematurely and continue with the program.
@@ -21,16 +23,20 @@ public class Jump_Statements
    {
       for (int i = 1; i <= 10; i++)
       {
-         Console.WriteLine(i);
+         
 
          if (i == 5)
          {
-          
-            continue;
+                goto xyz;
          }
+            Console.WriteLine(i);
 
-         
-      }
+          
+        }
       Console.WriteLine("Loop Termintes.");
+            
+       xyz:
+        Console.WriteLine("Program Exits");
+      
    }
-}
+}*/
