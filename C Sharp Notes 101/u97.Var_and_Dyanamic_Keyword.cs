@@ -1,4 +1,4 @@
-﻿namespace C_Sharp_Notes_101;
+﻿/*namespace C_Sharp_Notes_101;
 
  
 // VAR was introduced in C# 3.0
@@ -66,4 +66,4 @@ public class Var_and_Dyanamic_Keyboard
     }
     
     
-}
+}*/
